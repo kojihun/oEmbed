@@ -8,8 +8,8 @@
     <style>
         .header {
             width: 100%;
-            background-color: rgb(70, 149, 168); 
-            padding: 30px;
+            background-color: rgb(70, 149, 168);
+            padding: 30px 0px;
         }
         .header .title {
             color: white;
@@ -39,7 +39,7 @@
         }
         .result {
             border: 1px solid rgb(185, 185, 185); 
-            width: 950px; 
+            width: 1000px; 
             margin: 30px auto; 
             padding: 0px 30px;
         }
